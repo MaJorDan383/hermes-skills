@@ -1,0 +1,11 @@
+{
+  "name": "MaJorDan383/hermes-skills",
+  "description": "Hermes Agent community skills by MaJorDan383",
+  "skills": [
+    {
+      "name": "llama-qwen-watchdog",
+      "description": "WSL2 llama-server with TurboQuant + session-aware watchdog that auto-starts/auto-stops on provider switch and auto-stops on Hermes app close",
+      "path": "skills/wsl/llama-qwen-watchdog"
+    }
+  ]
+}
